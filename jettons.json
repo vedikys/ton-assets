@@ -4731,17 +4731,16 @@
  },
  {
   "address": "EQBikuxOnMkU4XNSVGQCbg46lk5d8vuhzDQtcDOJOcjaIvkV",
-  "description": "Telegram Monk is not just a meme, but a concept of life. It is freedom.",
-  "image": "https://raw.githubusercontent.com/durachio/assets/main/pictures/tmonk.jpg",
-  "name": "Telegram Monk",
+  "description": "Telegram BLKS is always something new.",
+  "image": "https://s2.radikal.cloud/2024/10/30/113.md.webp",
+  "name": "BLKS",
   "social": [
-   "https://t.me/TgMonk",
-   "https://twitter.com/TMonkOfficial"
+   "https://t.me/blkscoin",
+   "https://t.me/+QPNjwm77m0k1YmVi"
   ],
-  "symbol": "TMONK",
+  "symbol": "BLKS",
   "websites": [
-   "https://tgmonk.com",
-   "https://linktr.ee/tgmonk"
+   "https://arexs.ru"
   ]
  },
  {
@@ -4763,4 +4762,18 @@
    "https://utonic.org"
   ]
  }
+  {
+  "address": "0:8d636010dd90d8c0902ac7f9f397d8bd5e177f131ee2cca24ce894f15d19ceea",
+  "description": "TON locked in liquidity in Storm Trade (storm.tg)",
+  "image": "https://raw.githubusercontent.com/Tsunami-Exchange/chain-config/main/images/lp/ton-slp-logo.png",
+  "name": "TON Storm LP",
+  "social": [
+   "https://t.me/storm_trade_news",
+   "https://t.me/storm_trade_fam"
+  ],
+  "symbol": "TON-SLP",
+  "websites": [
+   "https://storm.tg"
+  ]
+ },
 ]
